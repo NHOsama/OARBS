@@ -5,7 +5,7 @@ This is a soft fork of Luke's Auto-Rice Bootstraping Scripts (LARBS). It is cust
 
 ## Installation:
 
-On an Arch based distribution as root, run the following:
+On an Arch based distribution **as root**, run the following:
 
 ```
 curl -LO github.com/NHOsama/OARBS/oarbs.sh
